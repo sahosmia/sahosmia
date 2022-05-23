@@ -1,6 +1,7 @@
 :root {
   --main-color: #eb3514cc;
   --white-color: #fff;
+  --ass-black-color: #292929;
   --poppins: "Poppins", sans-serif;
 }
 
@@ -12,6 +13,12 @@
 body {
   background: #f8f9fa;
   font-family: var(--poppins);
+  position: relative;
+}
+a,
+a:hover {
+  color: var(--white-color);
+  text-decoration: none;
 }
 
 /* common css end  */
@@ -19,6 +26,9 @@ body {
 /* color customize  */
 .main_color {
   color: var(--main-color);
+}
+.white_color {
+  color: var(--white-color);
 }
 /* color customize end */
 
@@ -28,8 +38,9 @@ body {
 /*========= navbar  ===========*/
 .nav-link {
   font-size: 15px;
-  color: #292929;
+  color: var(--ass-black-color);
   text-transform: capitalize;
+  margin: 0 10px;
 }
 
 .navbar-nav .nav-link.active,
@@ -42,12 +53,12 @@ body {
 .banner {
   background: url("../img/banner.jpg") no-repeat center;
   background-size: cover;
-  padding: 250px 0;
+  padding: 150px 0;
   position: relative;
   z-index: 9;
 }
 .banner::after {
-  background: #eb341422;
+  background: #0000008c;
   left: 0;
   top: 0;
   position: absolute;
@@ -56,9 +67,60 @@ body {
   width: 100%;
   height: 100%;
 }
-
 .banner h1 {
-  font-size: 46px;
-  font-weight: 600;
+  font-size: 50px;
+  font-weight: 700;
   color: var(--white-color);
+  line-height: 70px;
+}
+.banner p {
+  color: #b5b5b5;
+}
+
+/* Top to Bottom start css  */
+.top_to_bootom .top_icon {
+  position: absolute;
+  bottom: 20px;
+  right: 30px;
+  z-index: 9;
+  color: #fff;
+  font-size: 20px;
+  padding: 5px 10px;
+}
+
+.top_to_bootom .top_icon::after {
+  position: absolute;
+  content: "";
+  bottom: -4px;
+  left: 0;
+  width: 100%;
+  height: 2px;
+  background: #eb3514cc;
+  transition: all linear 0.3s;
+  z-index: 9;
+}
+.top_to_bootom:hover .top_icon::after {
+  bottom: 0px;
+  left: 0;
+  height: 100%;
+  background: #eb3514cc;
+  z-index: -1;
+  border-radius: 2px;
+}
+/* xxx top to bottom end   xxx */
+
+/* footer css start  */
+footer {
+  background: var(--ass-black-color);
+  padding-top: 15px;
+}
+footer .container {
+  vertical-align: baseline;
+}
+
+footer p {
+  text-align: center;
+  color: var(--white-color);
+  font-family: var(--poppins);
+  font-size: 12px;
 }
