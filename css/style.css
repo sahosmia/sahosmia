@@ -1,7 +1,7 @@
 :root {
-  --main-color: #eb3514cc;
+  --main-color: #e15e47;
   --white-color: #fff;
-  --ass-black-color: #292929;
+  --ass-black-color: #222;
   --poppins: "Poppins", sans-serif;
 }
 
@@ -14,11 +14,23 @@ body {
   background: #f8f9fa;
   font-family: var(--poppins);
   position: relative;
+  color: var(--ass-black-color);
+}
+ul,
+ol {
+  list-style-type: none;
+  padding-left: 0;
+}
+li {
+  display: inline-block;
 }
 a,
 a:hover {
   color: var(--white-color);
   text-decoration: none;
+}
+section {
+  padding: 60px 0;
 }
 
 /* common css end  */
@@ -33,14 +45,31 @@ a:hover {
 /* color customize end */
 
 /* typografy customize  */
+.heading {
+  font-size: 60px;
+  font-weight: 700;
+  margin-bottom: 50px;
+  color: var(--main-color);
+  text-transform: capitalize;
+  text-align: center;
+}
+.subheading {
+  font-size: 30px;
+  font-weight: 600;
+  /* margin-bottom: 50px; */
+  color: #fff;
+  text-transform: capitalize;
+  text-align: center;
+}
 /* typografy customize end */
 
 /*========= navbar  ===========*/
 .nav-link {
-  font-size: 15px;
+  font-size: 12px;
   color: var(--ass-black-color);
-  text-transform: capitalize;
-  margin: 0 10px;
+  font-weight: 700;
+  text-transform: uppercase;
+  padding: 5px 11px;
 }
 
 .navbar-nav .nav-link.active,
@@ -49,7 +78,7 @@ a:hover {
   color: var(--main-color);
 }
 
-/* banner start  */
+/*============= banner start  ================*/
 .banner {
   background: url("../img/banner.jpg") no-repeat center;
   background-size: cover;
@@ -75,11 +104,36 @@ a:hover {
 }
 .banner p {
   color: #b5b5b5;
+  padding-bottom: 25px;
+}
+.banner a {
+  border-radius: 2px;
+  margin-right: 6px;
+  font-size: 10px;
+  transition: all linear 0.3s;
+  border: 1px solid var(--main-color);
+  padding: 12px 40px;
+  font-weight: 600;
+  text-transform: uppercase;
 }
 
-/* Top to Bottom start css  */
+.banner a.active {
+  background: var(--main-color);
+}
+.banner a.active:hover {
+  background: transparent;
+}
+.banner a.inactive {
+  background: transparent;
+}
+
+.banner a.inactive:hover {
+  background: var(--main-color);
+}
+
+/*========== Top to Bottom start css ============ */
 .top_to_bootom .top_icon {
-  position: absolute;
+  position: fixed;
   bottom: 20px;
   right: 30px;
   z-index: 9;
@@ -95,7 +149,7 @@ a:hover {
   left: 0;
   width: 100%;
   height: 2px;
-  background: #eb3514cc;
+  background: var(--main-color);
   transition: all linear 0.3s;
   z-index: 9;
 }
@@ -103,13 +157,93 @@ a:hover {
   bottom: 0px;
   left: 0;
   height: 100%;
-  background: #eb3514cc;
+  background: var(--main-color);
   z-index: -1;
   border-radius: 2px;
 }
-/* xxx top to bottom end   xxx */
+/* XXXXX top to bottom end   XXXXX */
 
-/* footer css start  */
+/* contact pert start  */
+.contact {
+  background: #181818;
+}
+.contact h2 {
+  margin-bottom: 24px;
+  padding-bottom: 0px;
+  color: white;
+  font-size: 48px;
+  font-weight: 700;
+}
+.contact p {
+  text-align: left;
+  font-size: 18px;
+  line-height: 24px;
+  padding-bottom: 10px;
+  font-weight: 500;
+  color: #5e646a;
+}
+.contact .social {
+  position: relative;
+  padding-left: 60px;
+}
+.contact .social::before {
+  position: absolute;
+  width: 50px;
+  height: 2px;
+  background: var(--white-color);
+  content: "";
+  top: 50%;
+  left: 0;
+  display: inline-block;
+}
+.contact .social li {
+  width: 40px;
+  height: 40px;
+  background: #3a2424;
+  margin-right: 3px;
+  border-radius: 5px;
+  line-height: 40px;
+  text-align: center;
+  transition: all linear 0.3s;
+}
+.contact .social li a {
+  font-size: 14px;
+  color: var(--white-color);
+}
+.contact .social li:hover {
+  background: var(--main-color);
+}
+
+.contact .contact_icon {
+  font-size: 30px;
+  margin-right: 50px;
+  margin-bottom: 13px;
+  position: relative;
+  color: var(--main-color);
+}
+.contact .contact_details {
+  padding-top: 0;
+  border-left: rgba(255, 255, 255, 0.25);
+  padding: 12px 0 12px 12px;
+}
+
+.contact .contact_type {
+  font-size: 15px;
+  font-weight: 600;
+  margin-bottom: 0;
+  color: var(--white-color);
+}
+
+.contact .contact_value {
+  color: var(--white-color);
+}
+
+/* contact pert end  */
+
+/*=============
+footer css start 
+===============*/
+
 footer {
   background: var(--ass-black-color);
   padding-top: 15px;
@@ -117,7 +251,6 @@ footer {
 footer .container {
   vertical-align: baseline;
 }
-
 footer p {
   text-align: center;
   color: var(--white-color);
