@@ -9,7 +9,8 @@ module.exports = {
       },
 
       backgroundImage: {
-        
+        "hero-pattern": "url('/img/hero.jpg')",
+        'project-together': "url('/img/bg-1.jpg')",
         // 'footer-texture': "url('/img/footer-texture.png')",
       },
     },
