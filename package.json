@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "start" : "vite",
-    "build" : "tailwindcss -i style.css -o ./css/style.min.css --minify",
+    "build-css" : "tailwindcss -i style.css -o ./css/style.min.css",
+    "build-minify" : "tailwindcss -i style.css -o ./css/style.min.css --minify",
     "watch" : "tailwindcss -i style.css -o ./css/style.min.css --watch",
     "dev" : "vite build"
   },
