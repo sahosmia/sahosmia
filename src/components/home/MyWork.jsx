@@ -1,28 +1,44 @@
-import React from 'react'
-import { portfolios } from '../../data/dummy';
+import { portfolios } from "../../data/dummy";
 
 function MyWork() {
   return (
-    <section className="py-10 sm:py-16 lg:py-20 bg-slate-100" id="protfolio">
+    <section
+      className="py-10 sm:py-16 lg:py-28  relative overflow-hidden z-10"
+      id="protfolio"
+    >
       <div className="container mb-5">
         <p className="sub-title">I try to satisfy client by my work</p>
         <h3 className="section-heading">My Work</h3>
       </div>
 
-      <div className="container grid grid-cols-1 gap-5">
-        {portfolios.map((item) => (
+      <img
+        src="/img/shape.png"
+        className=" absolute w-28 bottom-5 left-2"
+        alt=""
+      />
+
+      <div className="circle absolute w-96 h-96 top-1/2 -right-60  rounded-full -translate-y-1/2 -z-10"></div>
+      <div className="container grid grid-cols-1 xl:grid-cols-3 grid-rows-2 gap-8 ">
+        {portfolios.map((item, index) => (
           <div
-            key={item.slug}
-            className=" rounded-lg shadow-lg max-md:max-w-sm mx-auto flex gap-5 items-center overflow-hidden bg-light"
+            key={index}
+            className={`w-full lg:col-span-2 rounded-lg shadow-lg  mx-auto flex flex-col gap-10 max-md:max-w-sm overflow-hidden bg-light p-5 lg:p-5 ${
+              index == 2
+                ? "xl:row-start-1 xl:row-end-3 xl:col-start-3 xl:col-end-4 md:flex-row xl:flex-col"
+                : "xl:col-span-2 items-center md:flex-row"
+            }`}
           >
-            <div className="w-full md:w-1/2 p-6 lg:p-12">
+            <div className="flex-1">
               <img
-                className="rounded-lg h-48  w-full block md:hidden object-cover object-center"
+                className={`rounded-lg h-60 w-full block  object-cover object-center `}
                 src={item.img}
                 alt=""
               />
+            </div>
 
-              <h2 className="pt-4 md:pt-0 text-xl md:text-2xl font-bold text-gray-600 max-md:line-clamp-1">
+            <div className=" flex-1 pr-10">
+              <h2 className="pt-4 md:pt-0 text-xl md:text-2xl font-bold text-gray-600 line-clamp-2">
+                {item.title}
                 {item.title}
               </h2>
               <p className="pt-2 md:pt-4 text-gray-400 line-clamp-3 md:line-clamp-4 text-sm md:text-base">
@@ -32,20 +48,10 @@ function MyWork() {
               <div className="mt-6 md:mt-8 mb-4">
                 <a
                   href="#"
-                  className="px-5 py-3 bg-main hover:bg-opacity-80 duration-500 text-sm md:text-base font-medium text-light rounded inline"
+                  className="px-4 py-2 bg-main hover:bg-opacity-80 duration-500 text-sm md:text-base font-medium text-light rounded inline"
                 >
                   Details
                 </a>
-              </div>
-            </div>
-
-            <div className=" hidden md:block md:w-1/2">
-              <div className='text-right'>
-                <img
-                  className="inline-block h-60 lg:h-72 w-full max-w-lg mx-auto object-cover object-center"
-                  src={item.img}
-                  alt={item.title}
-                />
               </div>
             </div>
           </div>
@@ -55,4 +61,4 @@ function MyWork() {
   );
 }
 
-export default MyWork
+export default MyWork;

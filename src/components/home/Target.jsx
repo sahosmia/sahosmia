@@ -1,9 +1,8 @@
-import React from 'react'
 
 function Target() {
   return (
      <section className="py-10 sm:py-16 lg:py-20 bg-slate-100">
-      <div className="container flex flex-col md:flex-row gap-2">
+      <div className="container flex flex-col md:flex-row gap-10">
        
         <div
           className="flex flex-col justify-center items-center bg-light border hover:border-white border-1 border-slate-200 rounded-lg p-4 md:p-8 transition ease-in-out duration-300 shadow-sm"

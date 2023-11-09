@@ -5,7 +5,8 @@ export default {
     extend: {
       colors: {
         light: "#ffffff",
-        main: "#FD562A",
+        main: "#ff4f5a",
+        // main: "#FD562A",
       },
 
       backgroundImage: {

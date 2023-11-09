@@ -27,26 +27,57 @@ function Contact() {
       );
   };
   return (
-    <section id="contact" className="py-10 sm:py-16 lg:py-20">
+    <section id="contact" className="py-10 sm:py-16 lg:py-28 relative">
+      <img
+        src="/img/(26).png"
+        className=" absolute  top-20 right-0 w-40 "
+        alt=""
+      />
+      <img
+        src="/img/buble-2.png"
+        className=" absolute  top-52 right-1/3 w-3"
+        alt=""
+      />
+      <img
+        src="/img/buble-2.png"
+        className=" absolute  bottom-52 left-1/4 w-3"
+        alt=""
+      />
+      <img
+        src="/img/(4).png"
+        className=" w-5 rotate-12 absolute  top-80 left-1/3"
+        alt=""
+      />
+      <img
+        src="/img/(24).png"
+        className=" w-5 rotate-12 absolute  top-80 left-48"
+        alt=""
+      />
+      <img
+        src="/img/(4).png"
+        className=" w-5 absolute  bottom-40 right-40"
+        alt=""
+      />
+
       <div className="container text-center">
         <p className="sub-title">Feel free to contact me anytimes</p>
         <h3 className="section-heading">Get in Touch</h3>
       </div>
 
       <div className="container flex flex-col md:flex-row gap-10 py-10">
-        <div className="flex flex-col gap-5 w-full md:w-1/2">
+        <div className="flex flex-col gap-8 w-full md:w-1/2">
           {contacts.map((contact) => (
             <div
               key={contact.title}
               className="flex items-center gap-2 md:gap-5"
             >
               <span
-                className={`flex justify-center items-center text-[${contact.color}] bg-[${contact.bg}] text-md md:text-xl w-12 md:w-16 lg:w-20 h-12 md:h-16 lg:h-20 rounded-full`}
+                className={`flex justify-center items-center ${contact.color} ${contact.bg} text-md md:text-xl w-12 md:w-16   h-12 md:h-16 rounded-full`}
               >
                 <i className={contact.icon}></i>
               </span>
               <div className="flex flex-col">
-                <h6 className="text-md md:text-lg lg:text-xl font-bold text-gray-700">
+                <h6 className="text-md md:text-lg  font-semibold text-gray-700">
                   {contact.title}
                 </h6>
                 <p className="text-slate-400 break-words text-sm md:text-base">

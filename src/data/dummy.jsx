@@ -31,8 +31,7 @@ export const portfolios = [
     title: "Organic Food Prossesing",
     slug: "organic-food-prossesing",
     img: "/img/protfolio/protfolio-1.png",
-    description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore et explicabo vel consequuntur quae. Corrupti hic perspiciatis unde dolore at.",
+    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. ",
     tecnology: ["React", "Tailwind"],
     live_url: "www.sahosmia.netlify.com",
     github: "www.github.com/sahosmia",
@@ -41,8 +40,16 @@ export const portfolios = [
     title: "Organic Food Prossesing 2",
     slug: "organic-food-prossesing-2",
     img: "/img/protfolio/protfolio-2.png",
-    description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore et explicabo vel consequuntur quae. Corrupti hic perspiciatis unde dolore at.",
+    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. ",
+    tecnology: ["React", "Tailwind"],
+    live_url: "www.sahosmia.netlify.com",
+    github: "www.github.com/sahosmia",
+  },
+  {
+    title: "Organic Food Prossesing 2",
+    slug: "organic-food-prossesing-2",
+    img: "/img/protfolio/protfolio-2.png",
+    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
     tecnology: ["React", "Tailwind"],
     live_url: "www.sahosmia.netlify.com",
     github: "www.github.com/sahosmia",
@@ -53,20 +60,17 @@ export const why_work_items = [
   {
     icon: "fa-regular fa-heart",
     title: "Life time Support",
-    description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur, aliquam placeat? Quae, in illum ratione ipsam sequi expedita doloribus molestiae?",
+    description: "You will get life time support for your dream project.",
   },
   {
     icon: "fa-regular fa-face-smile",
     title: "Good Communication",
-    description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur, aliquam placeat? Quae, in illum ratione ipsam sequi expedita doloribus molestiae?",
+    description: "I will try to give 100% for good comminication.",
   },
   {
     icon: "fa-solid fa-repeat",
     title: "Regular Update",
-    description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur, aliquam placeat? Quae, in illum ratione ipsam sequi expedita doloribus molestiae?",
+    description: "You will know every update on my proggress on your project.",
   },
 ];
 
@@ -75,22 +79,22 @@ export const contacts = [
     title: "Location",
     val: "Chuadanga, Bangladesh",
     icon: "fa-solid fa-map",
-    color: "#F75023",
-    bg: "#FEDFD7",
+    color: "text-[#F75023]",
+    bg: "bg-[#FEDFD7]",
   },
   {
     title: "Phone",
     val: "01952827301",
     icon: "fa-solid fa-phone",
-    color: "#1CBE59",
-    bg: "#DDF5E6",
+    color: "text-[#1CBE59]",
+    bg: "bg-[#DDF5E6]",
   },
   {
     title: "Email",
     val: "sahosmia.webdev@gmail.com",
     icon: "fa-solid fa-envelope",
-    color: "#836AF0",
-    bg: "#ECE8FD",
+    color: "text-[#836AF0]",
+    bg: "bg-[#ECE8FD]",
   },
 ];
 
@@ -146,31 +150,184 @@ export const services = [
   {
     icon: <TfiPaintBucket />,
     title: "Web Design",
-    description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat consequatur fugiat amet? Iure.",
+    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. ",
   },
   {
     icon: <BiCodeAlt />,
     title: "Web Development",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat consequatur fugiat amet? Iure.",
+      "Quaerat consectetur adipisicing elit consequatur fugiat amet? Iure.",
   },
   {
     icon: <PiMonitor />,
     title: "Single Page Application",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat consequatur fugiat amet? Iure.",
+      "Amet consectetur adipisicing elit. Quaerat consequatur amet? Iure.",
   },
   {
     icon: <FaFigma />,
     title: "Figma Design",
-    description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat consequatur fugiat amet? Iure.",
+    description: "Lorem ipsum dolor sit amet consequatur fugiat amet? Iure.",
   },
   {
     icon: <GoDatabase />,
     title: "Rest Api",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat consequatur fugiat amet? Iure.",
+      "Lorem adipisicing elit. Quaerat consequatur fugiat amet? Iure.",
+  },
+];
+
+export const skills = [
+  { title: "Javascript", per: "70%" },
+  { title: "React", per: "85%" },
+  { title: "Vue Js", per: "80%" },
+  { title: "Next Js", per: "70%" },
+  { title: "Php", per: "80%" },
+  { title: "Laravel", per: "85%" },
+  { title: "Tailwind", per: "90%" },
+];
+
+export const faqItems = [
+  {
+    question: "How can add new project",
+    answer:
+      "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Adipisci quia facilis mollitia provident rerum minus, ratione animi reprehenderit expedita nisi?",
+  },
+  {
+    question: "How can add new project",
+    answer:
+      "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Adipisci quia facilis mollitia provident rerum minus, ratione animi reprehenderit expedita nisi?",
+  },
+  {
+    question: "How can add new project",
+    answer:
+      "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Adipisci quia facilis mollitia provident rerum minus, ratione animi reprehenderit expedita nisi?",
+  },
+  {
+    question: "How can add new project",
+    answer:
+      "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Adipisci quia facilis mollitia provident rerum minus, ratione animi reprehenderit expedita nisi?",
+  },
+];
+
+export const technologies = [
+  { id: 1, title: "React" },
+  { id: 2, title: "Vue" },
+  { id: 3, title: "Next" },
+  { id: 4, title: "Tailwind" },
+  { id: 5, title: "Php" },
+  { id: 6, title: "Laravel" },
+];
+
+export const protfolios = [
+  {
+    title: "Organic Food Prossesing",
+    slug: "organic-food-prossesing",
+    thumbnail: "/img/protfolio/protfolio-2.png",
+    des: "",
+    images: [""],
+    liveUrl: "www.sahosmia.netlify.com",
+    github: "www.github.com/sahosmia",
+    tecnology: [1, 6],
+    showStatus: true,
+  },
+  {
+    title: "new",
+    slug: "",
+    thumbnail: "",
+    des: "",
+    images: [""],
+    liveUrl: "",
+    github: "",
+    tecnology: [2, 6],
+    showStatus: false,
+  },
+  {
+    title: "new",
+    slug: "",
+    thumbnail: "",
+    des: "",
+    images: [""],
+    liveUrl: "",
+    github: "",
+    tecnology: [5, 3],
+    showStatus: false,
+  },
+  {
+    title: "new",
+    slug: "",
+    thumbnail: "",
+    des: "",
+    images: [""],
+    liveUrl: "",
+    github: "",
+    tecnology: [3, 6],
+    showStatus: false,
+  },
+  {
+    title: "new",
+    slug: "",
+    thumbnail: "",
+    des: "",
+    images: [""],
+    liveUrl: "",
+    github: "",
+    tecnology: [5, 2],
+    showStatus: false,
+  },
+  {
+    title: "new",
+    slug: "",
+    thumbnail: "",
+    des: "",
+    images: [""],
+    liveUrl: "",
+    github: "",
+    tecnology: [5, 1],
+    showStatus: false,
+  },
+  {
+    title: "new",
+    slug: "",
+    thumbnail: "",
+    des: "",
+    images: [""],
+    liveUrl: "",
+    github: "",
+    tecnology: [4, 5],
+    showStatus: false,
+  },
+  {
+    title: "new",
+    slug: "",
+    thumbnail: "",
+    des: "",
+    images: [""],
+    liveUrl: "",
+    github: "",
+    tecnology: [3, 2],
+    showStatus: false,
+  },
+  {
+    title: "new",
+    slug: "",
+    thumbnail: "",
+    des: "",
+    images: [""],
+    liveUrl: "",
+    github: "",
+    tecnology: [2, 3],
+    showStatus: false,
+  },
+  {
+    title: "new",
+    slug: "",
+    thumbnail: "",
+    des: "",
+    images: [""],
+    liveUrl: "",
+    github: "",
+    tecnology: [1, 2],
+    showStatus: false,
   },
 ];

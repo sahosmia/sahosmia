@@ -8,3 +8,27 @@
 .sub-title {
   @apply text-main text-sm md:text-base font-bold uppercase mb-2 md:mb-4;
 }
+
+.circle {
+  width: 400px;
+  height: 400;
+  background: linear-gradient(
+    to bottom,
+    rgb(228, 139, 139) 70%,
+    rgb(131, 131, 201) 30%
+  );
+  filter: blur(150px);
+}
+
+.skill-bar {
+  animation: barwidth 2.3s 1;
+}
+
+@keyframes barwidth {
+  0% {
+    width: 0;
+  }
+  100% {
+    width: 100%;
+  }
+}

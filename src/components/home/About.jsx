@@ -1,8 +1,13 @@
-import React from 'react'
+import React from "react";
 
 function About() {
   return (
-    <section className="py-10 sm:py-16 lg:py-20" id="about">
+    <section className="py-10 sm:py-16 lg:py-20 relative" id="about">
+      <div className="absolute rounded-full w-5 h-5 bg-orange-300  top-64 left-40"></div>
+      <div className="absolute rounded-full w-3 h-3 bg-pink-300  bottom-64 right-40"></div>
+      <div className="absolute rounded border-2 border-red-600 w-10 h-10 bottom-96 right-96 -z-10"></div>
+      <div className="absolute rounded-full border border-teal-600 w-6 h-6 bottom-2 right-2/3 -z-10"></div>
+
       <div className="container flex flex-col-reverse lg:flex-row gap-3">
         <div className="flex-1">
           <p className="sub-title">About me</p>
@@ -61,4 +66,4 @@ function About() {
   );
 }
 
-export default About
+export default About;
