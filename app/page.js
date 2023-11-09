@@ -22,7 +22,7 @@ export default function Home() {
        <MyWork />
        <WhyWork />
        {/* 
-      <Faq/>
+       <Faq/>
       <ProjectTogether />
       <Contact /> */}
     </>
