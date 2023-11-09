@@ -1,7 +1,11 @@
 /** @type {import('tailwindcss').Config} */
-export default {
-  content: ["./index.html", "./src/**/*.{js,ts,jsx,tsx}"],
-  theme: {
+module.exports = {
+  content: [
+    './pages/**/*.{js,ts,jsx,tsx,mdx}',
+    './components/**/*.{js,ts,jsx,tsx,mdx}',
+    './app/**/*.{js,ts,jsx,tsx,mdx}',
+  ],
+ theme: {
     extend: {
       colors: {
         light: "#ffffff",
@@ -10,8 +14,8 @@ export default {
       },
 
       backgroundImage: {
-        "hero-pattern": "url('/img/hero.jpg')",
-        "project-together": "url('/img/bg-1.jpg')",
+        "hero-pattern": "url('/../assets/img/hero.jpg')",
+        "project-together": "url('../assets/img/bg-1.jpg')",
         // 'footer-texture': "url('/img/footer-texture.png')",
       },
     },
@@ -29,4 +33,4 @@ export default {
     },
   },
   plugins: [],
-};
+}
