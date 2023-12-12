@@ -45,7 +45,10 @@
 
 **Figma**
 - **<a href="https://www.figma.com/file/vKhEk8m4K2hr2IcAVQuZ6g/New?node-id=0%3A1&t=jXjYrwaUttsHJj2p-1">First Project</a>**
-
+  
+**Tailwind**
+- **<a href="https://lonsome.slovanky.com/">Lonsome</a>**
+  
 **React**
 - **[Admin Dashboard - EDash](https://e-dash-sahosmia.netlify.app/)**
 - **[Personal ProtFolio](https://sahos-mia.netlify.app/)**
