@@ -62,13 +62,13 @@
 
 
 
-![Sahos Mia's Stats](https://github-readme-stats.vercel.app/api?username=sahosridoy&theme=darcula&show_icons=true&hide_border=true&count_private=true)
+![Sahos Mia's Stats](https://github-readme-stats.vercel.app/api?username=sahosmia&theme=darcula&show_icons=true&hide_border=true&count_private=true)
 
-![Sahos Mia's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sahosridoy&theme=darcula&hide_border=true)
+![Sahos Mia's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sahosmia&theme=darcula&hide_border=true)
 
-![Sahos Mia's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sahosridoy&theme=darcula&show_icons=true&hide_border=true&layout=compact)
+![Sahos Mia's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sahosmia&theme=darcula&show_icons=true&hide_border=true&layout=compact)
   
-![Sahos Mia's Activity Graph](https://github-readme-activity-graph.vercel.app/graph/?username=sahosridoy&theme=tokyo-night&hide_border=true&text_color=ffffff"&color=708090&point=24292e&area=true&hide_border=true)
+![Sahos Mia's Activity Graph](https://github-readme-activity-graph.vercel.app/graph/?username=sahosmia&theme=tokyo-night&hide_border=true&text_color=ffffff"&color=708090&point=24292e&area=true&hide_border=true)
   
 
 <br />
