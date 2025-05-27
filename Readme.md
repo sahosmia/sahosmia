@@ -1,7 +1,12 @@
+
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-<h1 align="center">Hi 👋, I'm Sahos Mia</h1>
+<!-- <h1 align="center">Hi 👋, I'm Sahos Mia</h1> -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1200&color=FF6F61&center=true&vCenter=true&width=700&height=100&lines=Hi+there%2C+I'm+Sahos+Mia!;Welcome+to+my+GitHub+Universe!;Explore+my+projects+and+repos+below+%F0%9F%91%87" alt="Typing SVG" />
+</p>
 <h3 align="center">A React js, Next Js, Vue Js, TypeScript, Laravel application developer</h3>
 
 ### :woman_technologist: About Me :
@@ -15,10 +20,6 @@
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
-
-
-
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
@@ -59,9 +60,6 @@
 --- 
 
 
-
-
-
 ![Sahos Mia's Stats](https://github-readme-stats.vercel.app/api?username=sahosmia&theme=darcula&show_icons=true&hide_border=true&count_private=true)
 
 ![Sahos Mia's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sahosmia&theme=darcula&hide_border=true)
@@ -77,13 +75,8 @@
 
 
 
+
 ### Connect with me:
-
-
-
-
-
-
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahosridoy1/) 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/sahosridoy1)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/sahosridoy1)
