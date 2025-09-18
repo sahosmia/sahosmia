@@ -20,7 +20,7 @@
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
-[![My Skills](https://skillicons.dev/icons?i=js,laravel,php,react,vue,nodejs,jquery,markdown,tailwind,bootstrap,mysql,netlify,postman,html,css,typescript,mongo,figma,notion,mui,github,git,next,vercel,redux,inertia)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=laravel,php,js,typescript,react,vue,nodejs,jquery,tailwind,bootstrap,mysql,mongo,html,css,figma,mui,github,git,next,redux,vercel,markdown,netlify,postman,notion)](https://skillicons.dev)
 <br>
 
 ### 🏆 My Projects
