@@ -23,25 +23,42 @@
 [![My Skills](https://skillicons.dev/icons?i=js,laravel,php,react,vue,nodejs,jquery,markdown,tailwind,bootstrap,mysql,netlify,postman,html,css,typescript,mongo,figma,notion,mui,github,git,next,vercel,redux,inertia)](https://skillicons.dev)
 <br>
 
-### 	:trophy: My Project
+### 🏆 My Projects
 
-**Figma**
-- **<a href="https://www.figma.com/file/vKhEk8m4K2hr2IcAVQuZ6g/New?node-id=0%3A1&t=jXjYrwaUttsHJj2p-1">First Project</a>**
-  
-**Tailwind**
-- **<a href="https://lonsome.slovanky.com/">Lonsome</a>**
-  
-**React**
-- **[Admin Dashboard - EDash](https://e-dash-sahosmia.netlify.app/)**
-- **[Personal ProtFolio](https://sahos-mia.netlify.app/)**
-- **[Constraction](https://sahos-mia-construction.netlify.app/)**
-- **[Organic Food](https://sahos-mia-organic-food.netlify.app/)**
+Here are some of my projects categorized by technology:
 
-**Next Js**
-- **[Rest Api with page router](https://github.com/sahosridoy/nextjs-page-api.git)**
+#### React.js
 
+| Project Name         | Description                                       | Link                                                              |
+| -------------------- | ------------------------------------------------- | ----------------------------------------------------------------- |
+| **Admin Dashboard**  | A feature-rich admin dashboard application.       | [🔗](https://e-dash-sahosmia.netlify.app/)                           |
+| **Personal Portfolio** | My personal portfolio website to showcase my work. | [🔗](https://sahos-mia.netlify.app/)                                |
+| **Construction**     | A website for a construction company.             | [🔗](https://sahos-mia-construction.netlify.app/)                     |
+| **Organic Food**     | An e-commerce website for organic food.           | [🔗](https://sahos-mia-organic-food.netlify.app/)                   |
 
---- 
+#### Next.js
+
+| Project Name              | Description                               | Link                                                              |
+| ------------------------- | ----------------------------------------- | ----------------------------------------------------------------- |
+| **REST API with Pages Router** | A project demonstrating REST API with Next.js. | [🔗](https://github.com/sahosridoy/nextjs-page-api.git)        |
+
+#### Laravel
+
+| Project Name                | Description                                       | Link                                                              |
+| --------------------------- | ------------------------------------------------- | ----------------------------------------------------------------- |
+| **Project Management Tool** | A tool to manage projects and tasks efficiently.  | [🔗](https://github.com/sahosmia/Project-Managment-Laravel)     |
+| **Agency Website**          | A website for a digital agency.                   | [🔗](https://github.com/sahosmia/Agency-Website)                |
+
+#### Others
+
+| Project Name        | Description                               | Technology | Link                                                |
+| ------------------- | ----------------------------------------- | ---------- | --------------------------------------------------- |
+| **Lonsome**         | A landing page design.                    | Tailwind   | [🔗](https://lonsome.slovanky.com/)                   |
+| **Shop**            | An e-commerce shop application.           | TypeScript | [🔗](https://github.com/sahosmia/shop)              |
+| **BD Nirapad**      | A website for a local service.            | CSS        | [🔗](https://github.com/sahosmia/Bd-Nirapad)        |
+| **First Project**   | My first design project on Figma.         | Figma      | [🔗](https://www.figma.com/file/vKhEk8m4K2hr2IcAVQuZ6g/New?node-id=0:1&t=jXjYrwaUttsHJj2p-1) |
+
+---
 
 
 ![Sahos Mia's Stats](https://github-readme-stats.vercel.app/api?username=sahosmia&theme=darcula&show_icons=true&hide_border=true&count_private=true)
@@ -60,12 +77,15 @@
 
 
 
-### Connect with me:
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahosridoy1/) 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/sahosridoy1)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/sahosridoy1)
+### 📫 Connect with me
 
-<a href="https://www.hackerrank.com/sahosridoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dfh" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/sahosmia/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://twitter.com/sahosmia"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+  <a href="https://www.facebook.com/sahosmia301/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
+  <a href="https://www.hackerrank.com/sahosridoy"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"></a>
+</p>
+
 
 
 
