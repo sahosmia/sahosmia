@@ -47,8 +47,10 @@ Here are some of my projects categorized by technology:
 | Project Name                | Description                                       | Link                                                              |
 | --------------------------- | ------------------------------------------------- | ----------------------------------------------------------------- |
 | **Project & Thesis Management Tool** | A tool to manage projects and tasks efficiently.  | [🔗](https://github.com/sahosmia/Project-Managment-Laravel)     |
-| **Agency Website**          | A website for a digital agency.                   | [🔗](https://github.com/sahosmia/Agency-Website)                |
-| **Rest API**                | A rest api for laravel.                           | [🔗](https://github.com/sahosmia/Rest-api)                |
+| **Agency Website**          | A website for a digital agency.                   | [🔗](https://github.com/sahosmia/Agency-Website)                  |
+| **Rest API**                | A rest api for laravel.                           | [🔗](https://github.com/sahosmia/Rest-api)                        |
+| **BD Nirapad**              |  A website for a local service.                   | [🔗](https://github.com/sahosmia/Bd-Nirapad)                      |
+
 
 
 #### Others
@@ -57,7 +59,6 @@ Here are some of my projects categorized by technology:
 | ------------------- | ----------------------------------------- | ---------- | --------------------------------------------------- |
 | **Lonsome**         | A landing page design.                    | Tailwind   | [🔗](https://lonsome.slovanky.com/)                   |
 | **Shop**            | An e-commerce shop application.           | TypeScript | [🔗](https://github.com/sahosmia/shop)              |
-| **BD Nirapad**      | A website for a local service.            | CSS        | [🔗](https://github.com/sahosmia/Bd-Nirapad)        |
 | **First Project**   | My first design project on Figma.         | Figma      | [🔗](https://www.figma.com/file/vKhEk8m4K2hr2IcAVQuZ6g/New?node-id=0:1&t=jXjYrwaUttsHJj2p-1) |
 
 ---
