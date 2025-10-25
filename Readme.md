@@ -46,8 +46,10 @@ Here are some of my projects categorized by technology:
 
 | Project Name                | Description                                       | Link                                                              |
 | --------------------------- | ------------------------------------------------- | ----------------------------------------------------------------- |
-| **Project Management Tool** | A tool to manage projects and tasks efficiently.  | [🔗](https://github.com/sahosmia/Project-Managment-Laravel)     |
+| **Project & Thesis Management Tool** | A tool to manage projects and tasks efficiently.  | [🔗](https://github.com/sahosmia/Project-Managment-Laravel)     |
 | **Agency Website**          | A website for a digital agency.                   | [🔗](https://github.com/sahosmia/Agency-Website)                |
+| **Rest API**                | A rest api for laravel.                           | [🔗](https://github.com/sahosmia/Rest-api)                |
+
 
 #### Others
 
