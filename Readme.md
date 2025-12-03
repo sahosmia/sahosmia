@@ -3,7 +3,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-<!-- <h1 align="center">Hi 👋, I'm Sahos Mia</h1> -->
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1200&color=FF6F61&center=true&vCenter=true&width=700&height=100&lines=Hi+there%2C+I'm+Sahos+Mia!;Welcome+to+my+GitHub+Universe!;Explore+my+projects+and+repos+below+%F0%9F%91%87" alt="Typing SVG" />
 </p>
