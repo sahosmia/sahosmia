@@ -214,29 +214,6 @@ Worked on web application development and maintenance using modern PHP-based tec
 
 ---
 
-## 📈 What I’m Currently Focused On
-
-* 🏗️ Designing scalable **Laravel architectures**
-* ⚛️ Building modern **React + TypeScript applications**
-* 🏢 Developing enterprise **CRM / ERP systems**
-* 📦 Improving inventory & logistics workflows
-* ⚡ Performance optimization and caching
-* 🧪 Automated testing with PHPUnit / Pest
-* 🐳 Docker-based development environments
-* ☁️ Production deployment & server management
-
----
-
-## 🎯 Career Focus
-
-I'm interested in opportunities where I can work on:
-
-**Scalable SaaS · CRM / ERP · FinTech · Logistics · E-commerce · Business Automation · API Platforms**
-
-and contribute beyond individual features by helping design **reliable, maintainable software architecture**.
-
----
-
 ## 📫 Let's Connect
 
 <div align="center">
