@@ -1,96 +1,270 @@
+<div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1200&color=2DD4BF&center=true&vCenter=true&width=750&height=60&lines=Hi%2C+I'm+Sahos+Mia+%F0%9F%91%8B;Full-Stack+Web+Developer;Laravel+%7C+React+%7C+Vue+%7C+TypeScript;Building+Scalable+Business+Applications" alt="Typing SVG" />
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+<h3>Full-Stack Web Developer</h3>
+
+<p>
+Building <b>CRM/ERP systems, logistics platforms, SaaS applications, and secure business solutions</b>
+with Laravel, React, Vue.js, and TypeScript.
+</p>
+
+<p>
+<a href="https://sahosmia.vercel.app">
+<img src="https://img.shields.io/badge/🌐%20Portfolio-2DD4BF?style=for-the-badge&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/sahosmia/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://www.upwork.com/freelancers/~01580f9c00da36cf6b">
+<img src="https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white" />
+</a>
+</p>
+
 </div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1200&color=FF6F61&center=true&vCenter=true&width=700&height=100&lines=Hi+there%2C+I'm+Sahos+Mia!;Welcome+to+my+GitHub+Universe!;Explore+my+projects+and+repos+below+%F0%9F%91%87" alt="Typing SVG" />
-</p>
-<h3 align="center">A React js, Next Js, Vue Js, TypeScript, Laravel application developer</h3>
+---
 
-### :woman_technologist: About Me :
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+## 👨‍💻 About Me
 
-- :seedling: Exploring Technical Content Writing.
+I'm a **Full-Stack Web Developer** with **3+ years of hands-on experience** building production-ready applications for real-world businesses.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+I specialize in turning complex business requirements into **clean, scalable, maintainable web applications** — from CRM and ERP systems to logistics platforms and financial applications.
 
+### What I do
+
+* 🚀 Build production-ready applications with **Laravel, React, Vue.js & TypeScript**
+* 🏢 Develop **CRM, ERP, POS, LMS & business management systems**
+* 📦 Design workflows for **inventory, logistics, sales & operations**
+* 🔐 Build secure applications with **authentication, authorization & role-based access**
+* 🧩 Apply **SOLID principles, MVC, Service/Repository patterns & clean architecture**
+* ⚡ Build responsive and interactive interfaces with **React, Inertia.js & Tailwind CSS**
+* 🔗 Design and integrate **RESTful APIs & third-party services**
+* 🗄️ Work with relational and NoSQL databases including **MySQL & MongoDB**
+
+> I enjoy solving complex business problems through simple, maintainable software.
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
-[![My Skills](https://skillicons.dev/icons?i=laravel,php,js,typescript,react,vue,nodejs,jquery,tailwind,bootstrap,mysql,mongo,html,css,figma,mui,github,git,next,redux,vercel,markdown,netlify,postman,notion)](https://skillicons.dev)
-<br>
+## 🛠️ Tech Stack
 
-### 🏆 My Projects
+### Backend
 
-Here are some of my projects categorized by technology:
+<p>
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs" />
+</p>
 
-#### React.js
+**PHP · Laravel · OOP · SOLID · REST APIs · Eloquent ORM · Authentication · Authorization · Queues · PHPUnit**
 
-| Project Name         | Description                                       | Link                                                              |
-| -------------------- | ------------------------------------------------- | ----------------------------------------------------------------- |
-| **Admin Dashboard**  | A feature-rich admin dashboard application.       | [🔗](https://e-dash-sahosmia.netlify.app/)                           |
-| **Personal Portfolio** | My personal portfolio website to showcase my work. | [🔗](https://sahos-mia.netlify.app/)                                |
-| **Construction**     | A website for a construction company.             | [🔗](https://sahos-mia-construction.netlify.app/)                     |
-| **Organic Food**     | An e-commerce website for organic food.           | [🔗](https://sahos-mia-organic-food.netlify.app/)                   |
+### Frontend
 
-#### Next.js
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,ts,js,tailwind" />
+</p>
 
-| Project Name              | Description                               | Link                                                              |
-| ------------------------- | ----------------------------------------- | ----------------------------------------------------------------- |
-| **REST API with Pages Router** | A project demonstrating REST API with Next.js. | [🔗](https://github.com/sahosridoy/nextjs-page-api.git)        |
+**React · Next.js · Vue.js · TypeScript · JavaScript · Inertia.js · Tailwind CSS · ShadCN/UI · Framer Motion**
 
-#### Laravel
+### Database & Infrastructure
 
-| Project Name                | Description                                       | Link                                                              |
-| --------------------------- | ------------------------------------------------- | ----------------------------------------------------------------- |
-| **Project & Thesis Management Tool** | A tool to manage projects and tasks efficiently.  | [🔗](https://github.com/sahosmia/Project-Managment-Laravel)     |
-| **Agency Website**          | A website for a digital agency.                   | [🔗](https://github.com/sahosmia/Agency-Website)                  |
-| **Rest API**                | A rest api for laravel.                           | [🔗](https://github.com/sahosmia/Rest-api)                        |
-| **BD Nirapad**              |  A website for a local service.                   | [🔗](https://github.com/sahosmia/Bd-Nirapad)                      |
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,redis,docker,git,github" />
+</p>
 
+**MySQL · MongoDB · Redis · Docker · Git · GitHub · Queue Systems · Caching**
 
+### CMS & Other Tools
 
-#### Others
+<p>
+<img src="https://skillicons.dev/icons?i=wordpress,figma,vercel" />
+</p>
 
-| Project Name        | Description                               | Technology | Link                                                |
-| ------------------- | ----------------------------------------- | ---------- | --------------------------------------------------- |
-| **Lonsome**         | A landing page design.                    | Tailwind   | [🔗](https://lonsome.slovanky.com/)                   |
-| **Shop**            | An e-commerce shop application.           | TypeScript | [🔗](https://github.com/sahosmia/shop)              |
-| **First Project**   | My first design project on Figma.         | Figma      | [🔗](https://www.figma.com/file/vKhEk8m4K2hr2IcAVQuZ6g/New?node-id=0:1&t=jXjYrwaUttsHJj2p-1) |
+**WordPress · OpenCart · Figma · Vercel**
 
 ---
 
+## 🏗️ Engineering & Architecture
 
-![Sahos Mia's Stats](https://github-readme-stats.vercel.app/api?username=sahosmia&theme=darcula&show_icons=true&hide_border=true&count_private=true)
+I focus not only on writing code, but also on building systems that remain maintainable as they grow.
 
-![Sahos Mia's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sahosmia&theme=darcula&hide_border=true)
+```text
+Frontend
+├── React / Vue / TypeScript
+├── Inertia.js
+├── Tailwind CSS
+└── Component-driven UI
 
-![Sahos Mia's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sahosmia&theme=darcula&show_icons=true&hide_border=true&layout=compact)
-  
-![Sahos Mia's Activity Graph](https://github-readme-activity-graph.vercel.app/graph/?username=sahosmia&theme=tokyo-night&hide_border=true&text_color=ffffff"&color=708090&point=24292e&area=true&hide_border=true)
-  
+Backend
+├── Laravel
+├── RESTful APIs
+├── Service / Action Classes
+├── SOLID Principles
+├── Authentication & Authorization
+└── Queue & Background Processing
 
-<br />
-<br />
+Data
+├── MySQL
+├── MongoDB
+├── Redis
+└── Eloquent ORM
 
+Engineering
+├── Clean Code
+├── MVC
+├── Modular Architecture
+├── Git / GitHub
+├── Testing
+└── Production Deployment
+```
 
+---
 
+## 🚀 Selected Projects
 
-
-### 📫 Connect with me
+| Project                      | What I Built                                                                                                   | Technologies                              |
+| ---------------------------- | -------------------------------------------------------------------------------------------------------------- | ----------------------------------------- |
+| **Custom CRM**               | Sales CRM for requirement collection, follow-ups, meetings, quotations and pipeline management                 | Laravel · React · Inertia.js · TypeScript |
+| **Care & Connects**          | Disability-support platform designed for the Australian market with secure handling of sensitive business data | Laravel · Vue.js · Bootstrap · jQuery     |
+| **BD Nirapad**               | Secure digital money-transfer platform focused on reliable remittance workflows                                | Laravel · React                           |
+| **Task Management System**   | Role-based project management platform with task assignment, progress tracking and management dashboards       | Laravel · Vue.js · TypeScript             |
+| **China–BD Cargo Logistics** | Logistics management platform for order, shipment, inventory and operational workflow tracking                 | Laravel · React                           |
+| **Sahos Mia Portfolio**      | Personal portfolio showcasing professional experience, projects and case studies                               | Next.js · Tailwind CSS · Framer Motion    |
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sahosmia/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://twitter.com/sahosmia"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
-  <a href="https://www.facebook.com/sahosmia301/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
-  <a href="https://www.hackerrank.com/sahosridoy"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"></a>
+<a href="https://sahosmia.vercel.app/portfolios">
+<img src="https://img.shields.io/badge/Explore%20More%20Projects-2DD4BF?style=for-the-badge" />
+</a>
 </p>
 
+---
 
+## 💼 Professional Experience
 
+### Web Developer — AgainSoft
 
+**Aug 2025 – Present**
 
+Working on production business applications including:
 
+* CRM & ERP systems
+* Logistics platforms
+* LMS applications
+* Business workflow automation
+* Laravel + React/Vue applications
+
+---
+
+### Remote Web Developer — Code24 Pty Ltd 🇦🇺
+
+**Jan 2025 – Jul 2025**
+
+Worked remotely with an Australian team to develop and maintain a disability-support platform.
+
+Focused on:
+
+* Laravel backend development
+* Vue.js frontend development
+* Secure data handling
+* Business workflow implementation
+* Production issue resolution
+* International remote collaboration
+
+---
+
+### Freelance Web Developer
+
+**Jan 2023 – Present**
+
+Developing custom web applications for clients and businesses.
+
+Areas include:
+
+* Laravel applications
+* CRM / ERP systems
+* E-commerce
+* API development
+* OpenCart customization
+* WordPress development
+* Business automation
+
+---
+
+### Web Application Developer — iSocial Limited
+
+**Jan 2022 – Dec 2022**
+
+Worked on web application development and maintenance using modern PHP-based technologies.
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sahosmia&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahosmia&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sahosmia&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 📈 What I’m Currently Focused On
+
+* 🏗️ Designing scalable **Laravel architectures**
+* ⚛️ Building modern **React + TypeScript applications**
+* 🏢 Developing enterprise **CRM / ERP systems**
+* 📦 Improving inventory & logistics workflows
+* ⚡ Performance optimization and caching
+* 🧪 Automated testing with PHPUnit / Pest
+* 🐳 Docker-based development environments
+* ☁️ Production deployment & server management
+
+---
+
+## 🎯 Career Focus
+
+I'm interested in opportunities where I can work on:
+
+**Scalable SaaS · CRM / ERP · FinTech · Logistics · E-commerce · Business Automation · API Platforms**
+
+and contribute beyond individual features by helping design **reliable, maintainable software architecture**.
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+<a href="https://sahosmia.vercel.app">
+<img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-2DD4BF?style=for-the-badge" />
+</a>
+
+<a href="https://www.linkedin.com/in/sahosmia/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://www.upwork.com/freelancers/~01580f9c00da36cf6b">
+<img src="https://img.shields.io/badge/Upwork-Hire%20Me-14A800?style=for-the-badge&logo=upwork&logoColor=white" />
+</a>
+
+<a href="https://github.com/sahosmia">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 Building software that solves real business problems.
+
+<img src="https://komarev.com/ghpvc/?username=sahosmia&style=flat-square&color=2DD4BF" alt="Profile Views" />
+
+</div>
