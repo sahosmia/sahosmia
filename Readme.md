@@ -120,14 +120,14 @@ Engineering
 
 ## 🚀 Selected Projects
 
-| Project                      | What I Built                                                                                                   | Technologies                              |
+| Project | What I Built | Technologies |
 | ---------------------------- | -------------------------------------------------------------------------------------------------------------- | ----------------------------------------- |
-| **Custom CRM**               | Sales CRM for requirement collection, follow-ups, meetings, quotations and pipeline management                 | Laravel · React · Inertia.js · TypeScript |
-| **Care & Connects**          | Disability-support platform designed for the Australian market with secure handling of sensitive business data | Laravel · Vue.js · Bootstrap · jQuery     |
-| **BD Nirapad**               | Secure digital money-transfer platform focused on reliable remittance workflows                                | Laravel · React                           |
-| **Task Management System**   | Role-based project management platform with task assignment, progress tracking and management dashboards       | Laravel · Vue.js · TypeScript             |
-| **China–BD Cargo Logistics** | Logistics management platform for order, shipment, inventory and operational workflow tracking                 | Laravel · React                           |
-| **Sahos Mia Portfolio**      | Personal portfolio showcasing professional experience, projects and case studies                               | Next.js · Tailwind CSS · Framer Motion    |
+| **[Custom CRM](https://github.com/sahosmia/NewComCRM)** | Sales CRM for requirement collection, follow-ups, meetings, quotations and pipeline management | Laravel · React · Inertia.js · TypeScript |
+| **Care & Connects** | Disability-support platform designed for the Australian market with secure handling of sensitive business data | Laravel · Vue.js · Bootstrap · jQuery |
+| **BD Nirapad** | Secure digital money-transfer platform focused on reliable remittance workflows | Laravel · React |
+| **Task Management System** | Role-based project management platform with task assignment, progress tracking and management dashboards | Laravel · Vue.js · TypeScript |
+| **China–BD Cargo Logistics** | Logistics management platform for order, shipment, inventory and operational workflow tracking | Laravel · React |
+| **Sahos Mia Portfolio** | Personal portfolio showcasing professional experience, projects and case studies | Next.js · Tailwind CSS · Framer Motion |
 
 <p align="center">
 <a href="https://sahosmia.vercel.app/portfolios">
