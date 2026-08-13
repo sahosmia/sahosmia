@@ -123,6 +123,7 @@ Engineering
 | Project | What I Built | Technologies |
 | ---------------------------- | -------------------------------------------------------------------------------------------------------------- | ----------------------------------------- |
 | **[Custom CRM](https://github.com/sahosmia/NewComCRM)** | Sales CRM for requirement collection, follow-ups, meetings, quotations and pipeline management | Laravel · React · Inertia.js · TypeScript |
+| **[Shop & Client Management System](https://github.com/sahosmia/Laumberse)** | Enterprise shop & client system with corporate pricing matrices, invoicing, expense tracking and payroll automation | Laravel · React · Inertia.js · TypeScript |
 | **Care & Connects** | Disability-support platform designed for the Australian market with secure handling of sensitive business data | Laravel · Vue.js · Bootstrap · jQuery |
 | **BD Nirapad** | Secure digital money-transfer platform focused on reliable remittance workflows | Laravel · React |
 | **Task Management System** | Role-based project management platform with task assignment, progress tracking and management dashboards | Laravel · Vue.js · TypeScript |
